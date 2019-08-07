@@ -1,28 +1,35 @@
 {
   "data": [
     {
-      "title": "UPair 2 3D+4K 用户手册",
+      "title": "Upair one plus_Chinese",
       "description": "",
-      "path": "localhost/uploads/soft/20180331/UPair 2 3D+4K 用户手册.docx",
-      "time": "1522482808",
-      "file_name": "UPair 2 3D+4K 用户手册.docx"
+      "path": "https://raw.githubusercontent.com/allen723/UPAir-Document/master/manual/UPair One Plus/Upair one plus_Chinese.pdf",
+      "time": "1565193622",
+      "file_name": "Upair 增强版中文使用说明书"
     },
     {
-      "title": "UPair 增强版使用说明书",
+      "title": "UPair one plus_Deutsch",
       "description": "",
-      "path": "localhost/uploads/soft/20180331/UPair 增强版使用说明书.pdf",
-      "time": "1522482901",
-      "file_name": "UPair 增强版使用说明书.pdf"
+      "path": "https://raw.githubusercontent.com/allen723/UPAir-Document/master/manual/UPair One Plus/UPair one plus_Deutsch.pdf",
+      "time": "1565193622",
+      "file_name": "UPair one plus_Deutsch"
     },
     {
-      "title": "UPair 2 3D+4K 用户手册",
+      "title": "Upair one plus_English",
       "description": "",
-      "path": "localhost/uploads/soft/20180331/UPair 2 3D+4K 用户手册.docx",
-      "time": "1536716482",
-      "file_name": "UPair 2 3D+4K 用户手册.docx"
+      "path": "https://raw.githubusercontent.com/allen723/UPAir-Document/master/manual/UPair One Plus/Upair one plus_English.pdf",
+      "time": "1565193622",
+      "file_name": "Upair one plus_English"
+    },
+    {
+      "title": "Upair one plus_Le français",
+      "description": "",
+      "path": "https://raw.githubusercontent.com/allen723/UPAir-Document/master/manual/UPair One Plus/Upair one plus_Le français.pdf",
+      "time": "1565193622",
+      "file_name": "Upair one plus_Le français"
     }
   ],
   "state": 1,
   "msg": "",
-  "num": 3
+  "num": 4
 }
